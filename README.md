@@ -26,8 +26,8 @@ You are all set to go!
 
 ## Usage
 
-Site is ready for deployment on a hosting server with docker using gunicorn, for more information refer to Dockerfile and
-docker-compose.yaml.
+Site is ready for deployment on a hosting server with docker using gunicorn, for more information refer to Dockerfile
+and docker-compose.yaml.
 
 ## Contributing
 
